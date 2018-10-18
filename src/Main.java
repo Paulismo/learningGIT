@@ -9,7 +9,7 @@ class Testy implements Int1{
   public void Foo(){
         System.out.println(a*hdfg);
       System.out.println(str.length());
-      System.out.println(554);
+
     }
   public void Bar(){
         System.out.println(str);
